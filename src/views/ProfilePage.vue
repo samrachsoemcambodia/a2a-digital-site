@@ -11,7 +11,7 @@
             <div class="c_cart__text">
                 <h2>Long Lakkhana</h2>
                 <h3>Project Manager</h3>
-                <img class="c_card__img img_right" src="https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"/>  
+                <img class="c_card__img img_right" src="https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687" alt="Project Manager"/>  
                 <p>Long Lakkhana is the project mangaer of A2A Digital. Over the past 20 years, 
                     she has had a distinguished career as an entrep reneur, designer, and technologist.
                     In 2014, Stewart helped found Slack, a new category of software that changed the way 
@@ -38,7 +38,7 @@
             <div class="c_cart__text">
                 <h2>Long Lakkhana</h2>
                 <h3>Project Manager</h3>
-                <img class="c_card__img img_right" src="https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"/>  
+                <img class="c_card__img img_right" src="https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687" alt="Project Manager"/>  
                 <p>Long Lakkhana is the project mangaer of A2A Digital. Over the past 20 years, 
                     she has had a distinguished career as an entrep reneur, designer, and technologist.
                     In 2014, Stewart helped found Slack, a new category of software that changed the way 
@@ -60,7 +60,7 @@
             <div class="c_cart__text">
                 <h2>Long Lakkhana</h2>
                 <h3>Project Manager</h3>
-                <img class="c_card__img img_right" src="https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"/>  
+                <img class="c_card__img img_right" src="https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687" alt="Project Manager"/>  
                 <p>Long Lakkhana is the project mangaer of A2A Digital. Over the past 20 years, 
                     she has had a distinguished career as an entrep reneur, designer, and technologist.
                     In 2014, Stewart helped found Slack, a new category of software that changed the way 
@@ -78,7 +78,7 @@
             <div class="c_cart__text">
                 <h2>Long Lakkhana</h2>
                 <h3>Project Manager</h3>
-                <img class="c_card__img img_right" src="https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"/>  
+                <img class="c_card__img img_right" src="https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687" alt="Project Manager"/>  
                 <p>Long Lakkhana is the project mangaer of A2A Digital. Over the past 20 years, 
                     she has had a distinguished career as an entrep reneur, designer, and technologist.
                     In 2014, Stewart helped found Slack, a new category of software that changed the way 

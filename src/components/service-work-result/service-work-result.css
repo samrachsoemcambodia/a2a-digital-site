@@ -56,7 +56,7 @@
 }
 @media only screen and (min-width: 1367px) {
     .c_service_work_card div.flex-container{
-        padding: 0 calc((100% - 1186px)/2);
+        padding: 0 calc((100% - 1186px) / 2);
     }
 }
 @media only screen and (max-width: 1120px) {

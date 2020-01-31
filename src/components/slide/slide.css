@@ -20,7 +20,6 @@
 }
 
 .l_slide_intro h1{
-    font-family:SFProText-Bold;
     font-style: normal;
     font-weight: bold;
     font-size: 64px;
@@ -67,7 +66,7 @@
     width: 50px;
     height: 50px;
 }
-.l_slide__video i{
+.l_slide__video em{
     padding-left: 10px;
     padding-top: 16px;
     float: right;
@@ -131,7 +130,6 @@
   margin-right: auto;
   border-radius: 0;
   max-width: 870px;
-  margin:auto;
 }
 #videoModal .modal-header {
     background:transparent;
@@ -167,9 +165,6 @@
     right: -10px;
     width: 38px;
 }
-
-
-
 
 @media screen and (max-width: 600px) {
     .slide {
@@ -218,7 +213,7 @@
         top: 446px;
         left: 17%;
     } */
-    .l_slide__video i{
+    .l_slide__video em{
         padding-left: 9px;
     }
     

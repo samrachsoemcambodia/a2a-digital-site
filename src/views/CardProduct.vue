@@ -4,49 +4,49 @@
             <h1>Product</h1>
             
             <div class="c_arrow_left">
-                    <img class="c_img_arrow" src="../assets/img/cardproduct/arrow_left.svg">      
+                    <img class="c_img_arrow" src="../assets/img/cardproduct/arrow_left.svg" alt="Card Product Image">      
             </div>
             <div class="c_arrow_right">
-                    <img class="c_img_arrow" src="../assets/img/cardproduct/arrow_right.svg">
+                    <img class="c_img_arrow" src="../assets/img/cardproduct/arrow_right.svg" alt="Card Product Detial image">
             </div>
             <div class="c_card_product">
                 <div class="c_card_detail">
-                    <img class="c_img_product" src="../assets/img/cardproduct/product-01.png">
+                    <img class="c_img_product" src="../assets/img/cardproduct/product-01.png" alt="AI BOOK">
                     <div class="c_title__product">
                         <h2>AI Book</h2>
                         <p>The machine writes the book that base on the user requirements. </p>
                     </div>
                 </div>
                 <div class="c_card_detail">
-                    <img class="c_img_product" src="../assets/img/cardproduct/product-02.png">
+                    <img class="c_img_product" src="../assets/img/cardproduct/product-02.png" alt="The Machine write the book">
                     <div class="c_title__product">
                         <h2>AI Book</h2>
                         <p>The machine writes the book that base on the user requirements. </p>
                     </div>
                 </div>
                 <div class="c_card_detail">
-                    <img class="c_img_product" src="../assets/img/cardproduct/product-03.png">
+                    <img class="c_img_product" src="../assets/img/cardproduct/product-03.png" alt="The Machine write the book">
                     <div class="c_title__product">
                         <h2>AI Book</h2>
                         <p>The machine writes the book that base on the user requirements. </p>
                     </div>
                 </div>
                 <div class="c_card_detail">
-                    <img class="c_img_product" src="../assets/img/cardproduct/product-04.png">
+                    <img class="c_img_product" src="../assets/img/cardproduct/product-04.png" alt="The Machine write the book">
                     <div class="c_title__product">
                         <h2>AI Book</h2>
                         <p>The machine writes the book that base on the user requirements. </p>
                     </div>
                 </div>
                 <div class="c_card_detail">
-                    <img class="c_img_product" src="../assets/img/cardproduct/product-04.png">
+                    <img class="c_img_product" src="../assets/img/cardproduct/product-04.png" alt="The Machine write the book">
                     <div class="c_title__product">
                         <h2>AI Book</h2>
                         <p>The machine writes the book that base on the user requirements. </p>
                     </div>
                 </div>
                 <div class="c_card_detail">
-                    <img class="c_img_product" src="../assets/img/cardproduct/product-04.png">
+                    <img class="c_img_product" src="../assets/img/cardproduct/product-04.png" alt="The Machine write the book">
                     <div class="c_title__product">
                         <h2>AI Book</h2>
                         <p>The machine writes the book that base on the user requirements. </p>
