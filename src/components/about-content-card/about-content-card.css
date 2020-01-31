@@ -7,14 +7,12 @@
 .c_service__title h1{
     color: #303030;
     font-size: 35px;
-    font-family: SFProText-Bold;
     margin-bottom: -40px;
 }
 /*--------------------------------------- Card Format----------------------------------------------- */
 .l_card__text h1 {
     color: #303030;
     font-size: 40px;
-    font-family: SFProText-Bold;
     margin: 0;
     margin-bottom: 72px;
 }
@@ -95,7 +93,7 @@ section.c_card__service.txt_right {
 }
 @media only screen and (min-width: 1367px) {
     .c_card__service{
-        margin-left: calc((100% - 1186px)/2);
+        margin-left: calc((100% - 1186px) / 2);
         width: 1186px;
     }
     .l_card__text{
